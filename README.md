@@ -25,7 +25,7 @@ The dataset used in this project contains information about houses, including:
 - Year built
 - Other relevant features
 
-**Source**: [Kaggle House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) (or mention the actual source if it's different).
+**Source**: [Kaggle House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
 ---
 
